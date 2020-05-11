@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Measurify
+description: An IoT Framework to build poweful edge-cloud applications
+show_downloads: true
+google_analytics: UA-166030274-1
