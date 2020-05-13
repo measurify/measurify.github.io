@@ -9,9 +9,8 @@ In order to support the IoT developer community, Measurify is released open sour
 ## Table of contents
 
 1. [Main Concepts](#main-concepts)
-2. [Getting Started](#getting-started)
-3. [Use cases](#use-cases)
-4. [References](#references)
+2. [Use cases](#use-cases)
+3. [References](#references)
 
 ## Main concepts
 
@@ -28,13 +27,6 @@ The Feature resource is used to validate the value array of each received measur
 Other supplementary resources are **User, Log, Login, Script, Tag, Constraint, and Computation**.
 
 For a detailed description of each resource, please refere to [API Swagger Doc](TBD)
-
-## Quick start
-
-Clone code and run the container
-
-    git clone https://github.com/Atmosphere-IoT-Framework/api
-    docker-compose up 
 
 ## Use cases
 
