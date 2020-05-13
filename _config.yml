@@ -3,3 +3,9 @@ title: Measurify
 description: An IoT Framework to build powerful edge-cloud applications
 show_downloads: true
 google_analytics: UA-166030274-1
+github:
+    repository_url: https://github.com/measurify
+    repository_name: Measurify
+    owner_name: Elios Lab
+    owner_url: www.elios.diten.unige.it
+
