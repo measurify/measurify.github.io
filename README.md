@@ -53,8 +53,8 @@ Atmosphere has been employed in three industrial research projects, one in the h
 
 [4] A. Kobeissi, F. Bellotti, R. Berta, and A. De Gloria, **Towards an IoT-enabled Dynamic Wireless Charging Metering Service for Electrical Vehicles**, 4th AEIT International Conference of Electric and Electronic Technologies for Automotive, Turin, Italy, 2019 [LINK](https://doi.org/10.23919/EETA.2019.8804571)
 
-[5] V. Cirimele, M. Diana, F. Bellotti, R. Berta, A. Kobeissi, N. El Sayyed, J. Colussi, A. La Ganga, P. Guglielmi, and A. De Gloria, **The Fabric ICT platform for managing Wireless Dynamic Charging Road lanes**, in press of IEEE Transactions on Vehicular Technology (IEEE TVT), 2019 [LINK](https://doi.org/10.1109/TVT.2020.2968211)
+[5] V. Cirimele, M. Diana, F. Bellotti, R. Berta, A. Kobeissi, N. El Sayyed, J. Colussi, A. La Ganga, P. Guglielmi, and A. De Gloria, **The Fabric ICT platform for managing Wireless Dynamic Charging Road lanes**, IEEE Transactions on Vehicular Technology (IEEE TVT), Vol. 69, No. 3, March 2020. [LINK](https://doi.org/10.1109/TVT.2020.2968211)
 
 [6] L. Pescosolido, R. Berta, L. Scalise, G. M. Revel, A. De Gloria and G. Orlandi, **An IoT-inspired cloud-based web service architecture for e-Health applications**, 2016 IEEE International Smart Cities Conference (ISC2), Trento, 2016, pp. 1-4 [LINK](https://doi.org/10.1109/ISC2.2016.07580759)
 
-[7] A. Monteriù, M.R. Prist, E. Frontoni, S. Longhi, F. Pietroni, S. Casacci, L. Scalise, A. Cenci, L. Romeo, R. Berta, L. Pescosolido, G. Orlandi, G.M. Revel, **A smart sensing architecture for domestic monitoring: methodological approach and experimental validation**, Sensors, Vol. 18 Issue 7, July 2018 [LINK](https://doi.org/10.3390/s18072310)
+[7] A. Monteriù, M.R. Prist, E. Frontoni, S. Longhi, F. Pietroni, S. Casacci, L. Scalise, A. Cenci, L. Romeo, R. Berta, L. Pescosolido, G. Orlandi, G.M. Revel, **A smart sensing architecture for domestic monitoring: methodological approach and experimental validation**, Sensors, Vol. 18, No. 7, July 2018 [LINK](https://doi.org/10.3390/s18072310)
